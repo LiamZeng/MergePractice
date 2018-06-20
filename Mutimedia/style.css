@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+}
+h2{
+    /*预留歌曲名称的显示空间*/
+    height: 32px;
+}
